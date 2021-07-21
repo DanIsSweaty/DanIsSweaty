@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DanIsSweaty
+- 👀 I’m interested in Java Development and creating minigames in minecraft.
+- 🌱 I’m currently learning Java.
+- 💞️ I’m looking to work for Hypixel as a minigame Java Developer.
