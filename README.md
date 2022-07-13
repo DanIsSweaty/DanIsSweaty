@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DanIsSweaty.
+- 👋 Hi, I’m @notpvpgod.
 - 👀 I’m interested in Java Development and playing minecraft.
 - 🌱 I’m currently learning Java.
 - 💞️ My future goal would be to work with hypixel ❤️
